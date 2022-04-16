@@ -1,1 +1,1 @@
-# sillyStuffedAnimalStories
+# Silly Stuffed Animal Stories
