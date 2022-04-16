@@ -8,7 +8,7 @@ Acorn got started by studying a dragon fruit.
 ![fruit_study](pictures/image_1.jpg)
 <div style="page-break-after: always;"></div>
 
-After extensive studying,Acorn and Grapefruit soaked and are now watching the dragon fruit seeds.
+After extensive studying, Acorn and Grapefruit soaked and are now watching the dragon fruit seeds.
 ![seed_watching](pictures/image_2.jpg)
 <div style="page-break-after: always;"></div>
 

@@ -12,13 +12,11 @@
 * [Chapter 9: Bunnyivd](chapter_9/story.md)
 * [Chapter 10: Attempting Tea](chapter_10/story.md)
 * [Chapter 11: Fresh Tea Is Best Tea](chapter_11/story.md)
-* [Chapter 12: Packing For The Office](chapter_12/story.md)
-* [Chapter 13: Office Bunnies?](chapter_13/story.md)
-* [Chapter 14: A Hot Date](chapter_14/story.md)
-* [Chapter 15: Cactus](chapter_15/story.md)
-* [Chapter 16: The Great Magnolia Adventure: The Ride](chapter_16/story.md)
-* [Chapter 17: The Great Magnolia Adventure: Sidney](chapter_17/story.md)
-* [Chapter 18: The Great Magnolia Adventure: Time For Bed](chapter_18/story.md)
+* [Chapter 12: To Be An Office Bunny?](chapter_12/story.md)
+* [Chapter 13: Cactus](chapter_13/story.md)
+* [Chapter 14: The Great Magnolia Adventure: The Ride](chapter_14/story.md)
+* [Chapter 15: The Great Magnolia Adventure: Sidney](chapter_15/story.md)
+* [Chapter 16: The Great Magnolia Adventure: Mouser and T](chapter_16/story.md)
 
 ## Characters
 
