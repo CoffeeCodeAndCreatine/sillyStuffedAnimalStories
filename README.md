@@ -17,8 +17,8 @@
 * [Chapter 14: The Great Magnolia Adventure: The Ride](chapter_14/story.md)
 * [Chapter 15: The Great Magnolia Adventure: Sidney](chapter_15/story.md)
 * [Chapter 16: The Great Magnolia Adventure: Mouser and T](chapter_16/story.md)
-* [Chapter 16: The Great Magnolia Adventure: The Nature Walk](chapter_17/story.md)
-* [Chapter 16: The Great Magnolia Adventure: The Dangers Of Pie](chapter_18/story.md)
+* [Chapter 17: The Great Magnolia Adventure: The Nature Walk](chapter_17/story.md)
+* [Chapter 18: The Great Magnolia Adventure: The Dangers Of Pie](chapter_18/story.md)
 
 ## Characters
 
