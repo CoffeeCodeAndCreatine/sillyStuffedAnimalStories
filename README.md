@@ -23,6 +23,8 @@
 * [Chapter 20: Strange New Bunny Snacks](chapter_20/story.md)
 * [Chapter 21: Building Monitor Arms](chapter_21/story.md)
 * [Chapter 22: A Car Wash](chapter_22/story.md)
+* [Chapter 23: Netflix and Internet](chapter_23/story.md)
+* [Chapter 24: Happy Hour](chapter_24/story.md)
 
 ## Characters
 ### The Bunnies
