@@ -25,6 +25,13 @@
 * [Chapter 22: A Car Wash](chapter_22/story.md)
 * [Chapter 23: Netflix and Internet](chapter_23/story.md)
 * [Chapter 24: Happy Hour](chapter_24/story.md)
+* [Chapter 25: The Title Commitment](chapter_25/story.md)
+* [Chapter 26: Office Remodel](chapter_26/story.md)
+* [Chapter 27: The Bad Bunnies](chapter_27/story.md)
+* [Chapter 28: Are The Bunnies Going Home?](chapter_28/story.md)
+* [Chapter 29: Room For Lego](chapter_29/story.md)
+* [Chapter 30: A Motorcycle Adventure](chapter_30/story.md)
+* [Chapter 31: Upgrades People! Upgrades](chapter_31/story.md)
 
 ## Characters
 ### The Bunnies
