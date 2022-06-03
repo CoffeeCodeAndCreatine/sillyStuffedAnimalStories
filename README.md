@@ -74,3 +74,11 @@
 * [Sam](characters/sam.md)
 * [Jack](characters/jack.md)
 * [Fennel](characters/fennel.md)
+
+### Donations
+Love the stories? Want to help Espresso save up for an Espresso machine? All amounts are welcome! All contributors get a mention in one story or another.
+
+Donate by clicking [here](https://account.venmo.com/u/Jacob-Daigle-6)
+
+Or scan the QR code below
+![Venmo](VENMO.jpg)
