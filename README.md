@@ -32,6 +32,13 @@
 * [Chapter 29: Room For Lego](chapter_29/story.md)
 * [Chapter 30: A Motorcycle Adventure](chapter_30/story.md)
 * [Chapter 31: Upgrades People! Upgrades](chapter_31/story.md)
+* [Chapter 32: Downgrades People... Downgrades](chapter_32/story.md)
+* [Chapter 33: Loosie Arives](chapter_33/story.md)
+* [Chapter 34: Land Owners!](chapter_34/story.md)
+* [Chapter 35: Retail Therapy For Espresso](chapter_35/story.md)
+* [Chapter 36: Always Time For Coffee](chapter_36/story.md)
+* [Chapter 37: Office Remodel Part 2](chapter_37/story.md)
+* [Chapter 38: Guest Room Clean Up](chapter_38/story.md)
 
 ## Characters
 ### The Bunnies
@@ -65,3 +72,5 @@
 * [Goose](characters/goose.md)
 * [Phillip](characters/phillip.md)
 * [Sam](characters/sam.md)
+* [Jack](characters/jack.md)
+* [Fennel](characters/fennel.md)
