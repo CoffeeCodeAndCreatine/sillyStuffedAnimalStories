@@ -1,4 +1,4 @@
-# Silly Stuffed Animal Stories
+# Silly Stuffed Animal Stories <div style="float: right"> <a href="https://www.buymeacoffee.com/coffeecode6" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> </div>
 
 ## Table Of Contents
 * [Chapter 1: The Dragon Fruit](chapter_1/story.md)
@@ -39,6 +39,10 @@
 * [Chapter 36: Always Time For Coffee](chapter_36/story.md)
 * [Chapter 37: Office Remodel Part 2](chapter_37/story.md)
 * [Chapter 38: Guest Room Clean Up](chapter_38/story.md)
+* [Chapter 39: Mobile Espresso](chapter_39/story.md)
+* [Chapter 40: Espresso's Office Adventure](chapter_40/story.md)
+* [Chapter 41: Two Percent Makes Cookies](chapter_41/story.md)
+* [Chapter 41: Two Percent Takes Up Farming](chapter_42/story.md)
 
 ## Characters
 ### The Bunnies
@@ -74,6 +78,7 @@
 * [Sam](characters/sam.md)
 * [Jack](characters/jack.md)
 * [Fennel](characters/fennel.md)
+* [Two Percent](characters/twoPercent.md)
 
 ### Donations
 Love the stories? Want to help Espresso save up for an Espresso machine? All amounts are welcome! All contributors get a mention in one story or another.
