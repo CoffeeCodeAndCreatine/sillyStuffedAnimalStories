@@ -42,7 +42,7 @@
 * [Chapter 39: Mobile Espresso](chapter_39/story.md)
 * [Chapter 40: Espresso's Office Adventure](chapter_40/story.md)
 * [Chapter 41: Two Percent Makes Cookies](chapter_41/story.md)
-* [Chapter 41: Two Percent Takes Up Farming](chapter_42/story.md)
+* [Chapter 42: Two Percent Takes Up Farming](chapter_42/story.md)
 
 ## Characters
 ### The Bunnies
