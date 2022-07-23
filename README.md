@@ -43,7 +43,6 @@
 * [Chapter 40: Espresso's Office Adventure](chapter_40/story.md)
 * [Chapter 41: Two Percent Makes Cookies](chapter_41/story.md)
 * [Chapter 42: Two Percent Takes Up Farming](chapter_42/story.md)
-
 * [Chapter 43: New Seeds](chapter_43/story.md)
 * [Chapter 44: New Hobbies](chapter_44/story.md)
 * [Chapter 45: Ice Harvest](chapter_45/story.md)
