@@ -1,3 +1,4 @@
 .idea
 /working
 **/.DS_Store
+template/*

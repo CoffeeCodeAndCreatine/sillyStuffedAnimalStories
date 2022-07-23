@@ -44,6 +44,17 @@
 * [Chapter 41: Two Percent Makes Cookies](chapter_41/story.md)
 * [Chapter 42: Two Percent Takes Up Farming](chapter_42/story.md)
 
+* [Chapter 43: New Seeds](chapter_43/story.md)
+* [Chapter 44: New Hobbies](chapter_44/story.md)
+* [Chapter 45: Ice Harvest](chapter_45/story.md)
+* [Chapter 46: Ice Bunny](chapter_46/story.md)
+* [Chapter 47: Proper Espresso Tonic](chapter_47/story.md)
+* [Chapter 48: Fixed Up Freezer](chapter_48/story.md)
+* [Chapter 49: Welcome Rover](chapter_49/story.md)
+* [Chapter 50: Rover's New House](chapter_50/story.md)
+* [Chapter 51: Rover's Bad Day](chapter_51/story.md)
+* [Chapter 52: Espresso's Espresso Adventure ](chapter_52/story.md)
+
 ## Characters
 ### The Bunnies
 * [Peach](characters/peach.md)
