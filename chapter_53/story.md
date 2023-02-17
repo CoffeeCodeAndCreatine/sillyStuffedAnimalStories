@@ -277,5 +277,28 @@ Today is the day! Cheddar is off to his forever home! First a latte! Then a car 
 
 <div style="page-break-after: always;"></div>
 
+Cheddar was led to the car
+
+<div style="page-break-after: always;"></div>
+
+![IMG_4845](pictures/IMG_4845.jpeg)
+
+<div style="page-break-after: always;"></div>
+
+Picked out a seat, and before he knew it, he was in magnolia.
+
+<div style="page-break-after: always;"></div>
+
+![IMG_4846](pictures/IMG_4846.jpeg)
+
+<div style="page-break-after: always;"></div>
+
+He even got comfortable waiting for her to show up
+
+<div style="page-break-after: always;"></div>
+
+![IMG_4849](pictures/IMG_4849.jpeg)
+
+<div style="page-break-after: always;"></div>
 
 
