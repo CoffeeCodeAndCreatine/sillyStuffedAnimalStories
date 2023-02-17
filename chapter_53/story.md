@@ -13,7 +13,7 @@ Shanny had just the forever home in mind....
 
 You see, Cheddar's forever home was a small place in Conroe.
 However, no cars were headed that way for a while, so Cheddar had to camp out at the "House of Coffee".
-Cheddar was quite shy, but eventually made friends. He got along with the bunnies, but quick became best friends with Bruce the Shark.
+Cheddar was quite shy, but eventually made friends. He got along with the bunnies, but quickly became best friends with Bruce the Shark.
 
 <div style="page-break-after: always;"></div>
 
@@ -124,7 +124,7 @@ Eventually though, a car was scheduled to go to conroe and Cheddar had to get re
 
 <div style="page-break-after: always;"></div>
 
-The day before Cheddar decided a bath was needed. Cheddar was convinced this was the right thing to do, but was uneasy
+The day before, Cheddar decided a bath was needed. Cheddar was convinced this was the right thing to do, but was uneasy
 
 <div style="page-break-after: always;"></div>
 
@@ -140,7 +140,7 @@ Upon getting in the tub, he decided baths were terrible and that he was dying...
 
 <div style="page-break-after: always;"></div>
 
-It was not until his best friend Bruce joined him, he decided it was ok.
+It was not until his best friend Bruce joined him, that he decided it was ok.
 
 <div style="page-break-after: always;"></div>
 
@@ -184,7 +184,7 @@ Wash cloths were used
 
 <div style="page-break-after: always;"></div>
 
-![IMG_4787](pictures/IMG_4787.jpeg)
+![IMG_4788](pictures/IMG_4788.jpeg)
 
 <div style="page-break-after: always;"></div>
 
@@ -192,7 +192,7 @@ Cheddar even got his nose cleaned! Though Bruce had to hold his hoof...
 
 <div style="page-break-after: always;"></div>
 
-![IMG_4788](pictures/IMG_4788.jpeg)
+![IMG_4787](pictures/IMG_4787.jpeg)
 
 <div style="page-break-after: always;"></div>
 
@@ -261,7 +261,7 @@ Lots of snacks were had.
 
 <div style="page-break-after: always;"></div>
 
-Shortly after it got dark, Cheddar water the plants for the bunnies and went to bed. 
+Shortly after it got dark, Cheddar watered the plants for the bunnies and went to bed. 
 
 <div style="page-break-after: always;"></div>
 
