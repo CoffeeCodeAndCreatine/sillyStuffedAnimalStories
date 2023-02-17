@@ -53,6 +53,7 @@
 * [Chapter 50: Rover's New House](chapter_50/story.md)
 * [Chapter 51: Rover's Bad Day](chapter_51/story.md)
 * [Chapter 52: Espresso's Espresso Adventure ](chapter_52/story.md)
+* [Chapter 53: Cheddar's Forver Home ](chapter_53/story.md)
 
 ## Characters
 ### The Bunnies
